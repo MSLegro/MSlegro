@@ -5,9 +5,17 @@
   </a>
 </p>
 
+<!-- ASCII Art Terminal -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd1dWlrMnB0Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6/26FLdmIp6wJr9sJFi/giphy.gif" alt="pixel cat" width="120" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd1dWlrMnB0Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6/v3Vb2zLzRqN0I/giphy.gif" alt="pixel sword" width="120" />
+  <pre>
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                                ║
+║  Manuel Sebastian Legro                                  ║
+║  Systems Engineer | RPA & Backend Dev                    ║
+║  Valledupar, Colombia 🇨🇴                               ║
+║  "Automate everything. Control everything."              ║
+╚══════════════════════════════════════════════════════════╝
+  </pre>
 </p>
 
 ---
@@ -34,6 +42,19 @@ When I'm not writing code, you'll find me:
 - 🖥️ Tinkering with Linux — because I like full control
 
 > *"Automate everything. Control everything."*
+
+---
+
+## 🤖 Currently Automating
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| 🏥 [automation-enterprise-excel](https://github.com/MSLegro/automation-enterprise-excel) | 🟢 Active | Clinical lab reports automation — Playwright, MSSQL, ExcelJS |
+| 🛡️ [secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI) | 🟢 Active | Encrypted password manager — AES-256 + Argon2, .deb package |
+| 👶 [rpa-ctg](https://github.com/MSLegro/rpa-ctg) | 🟡 Standby | Fetal monitoring automation — RPA for healthcare workflows |
+| 📧 [automation-gmail-whatsapp](https://github.com/MSLegro/automation-gmail-whatsapp) | 🟡 Standby | Gmail → WhatsApp notification bridge |
+
+> _Last updated: May 2026_
 
 ---
 
@@ -99,6 +120,12 @@ When I'm not writing code, you'll find me:
 
 ## 📊 Stats & Activity
 
+### Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MSLegro&theme=react&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ff6b6b&area=true)](https://github.com/MSLegro)
+
+### GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MSLegro&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSLegro&theme=radical&hide_border=true" alt="Streak Stats" />
@@ -108,6 +135,10 @@ When I'm not writing code, you'll find me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSLegro&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
+### Profile Metrics
+
+![Metrics](https://metrics.lecoq.io/MSLegro?template=classic&base.indepth=true&config.timezone=America%2FBogota&languages=1&repositories.forks=true&stargazers=1&stars=1&people=1&notable=1&traffic=1)
+
 ---
 
 ## 📬 Connect
@@ -115,9 +146,6 @@ When I'm not writing code, you'll find me:
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-legro-b62622227/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
