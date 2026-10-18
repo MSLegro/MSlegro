@@ -43,77 +43,50 @@
 
 > *Tengo una regla sencilla: cuando una herramienta comercial no existe, es muy rígida o no resuelve el problema con la velocidad necesaria, la construyo desde cero.*
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/MSLegro/scanner-kit-playwright">scanner-kit-playwright</a></h3>
-      <p><em>Universal Web Reconnaissance & Automation Kit</em></p>
-      <p>Kit universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright. Provee un potente binario CLI (<code>sk</code>) para inspección profunda de sitios, captura estructurada de datos y diagnóstico reactivo.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-        <img src="https://img.shields.io/badge/CLI_Tool-333333?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕸️ <a href="https://github.com/MSLegro/DocuGraph">DocuGraph</a></h3>
-      <p><em>Relational Knowledge & Document Engine</em></p>
-      <p>Herramienta diseñada para el análisis, extracción y representación gráfica de flujos documentales y relaciones de información complejas, transformando datos aislados en grafos visuales y navegables.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Data_Graphs-9146FF?style=flat-square" alt="Graph" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tooling-0052CC?style=flat-square" alt="Tooling" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/MSLegro/secure-bot-CLI">secure-bot-CLI</a></h3>
-      <p><em>Terminal Encrypted Password Vault</em></p>
-      <p>Gestor de contraseñas de alta seguridad diseñado para la terminal de Linux. Implementa cifrado simétrico <strong>AES-256</strong> con función de derivación de claves <strong>Argon2</strong>. Empaquetado como <code>.deb</code> con almacenamiento 100% local y cero dependencia de la nube.</p>
-      <p>
-        <img src="https://img.shields.io/badge/AES--256-4E5D6C?style=flat-square&logo=letsencrypt&logoColor=white" alt="AES-256" />
-        <img src="https://img.shields.io/badge/Argon2-20232A?style=flat-square&logo=keycdn&logoColor=white" alt="Argon2" />
-        <img src="https://img.shields.io/badge/Linux_deb-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux deb" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/MSLegro/bot-stream-massive">bot-stream-massive</a></h3>
-      <p><em>Massive Streaming Automation & Bot Engine</em></p>
-      <p>Motor para la gestión, orquestación y automatización de flujos de streaming y eventos masivos en segundo plano con control de concurrencia y tolerancia a fallos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Automation-0052CC?style=flat-square" alt="Automation" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Streaming-9146FF?style=flat-square" alt="Streaming" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/MSLegro/scanner-kit-playwright">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MSLegro&repo=scanner-kit-playwright&theme=tokyonight&hide_border=true" width="48%" alt="scanner-kit-playwright" />
+  </a>
+  <a href="https://github.com/MSLegro/DocuGraph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MSLegro&repo=DocuGraph&theme=tokyonight&hide_border=true" width="48%" alt="DocuGraph" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/MSLegro/secure-bot-CLI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MSLegro&repo=secure-bot-CLI&theme=tokyonight&hide_border=true" width="48%" alt="secure-bot-CLI" />
+  </a>
+  <a href="https://github.com/MSLegro/search-sisben-riu-data">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MSLegro&repo=search-sisben-riu-data&theme=tokyonight&hide_border=true" width="48%" alt="search-sisben-riu-data" />
+  </a>
+</div>
 
 ---
 
 ## 🛡️ Real-World Quests // Automatización & RPA Empresarial
 
-> *Misiones completadas en producción: optimizando operaciones clínicas, de salud y procesos gubernamentales.*
+> *Misiones completadas en producción: optimizando operaciones clínicas, de salud y flujos de alto impacto.*
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/MSLegro/search-sisben-riu-data">search-sisben-riu-data</a></h3>
-      <p>RPA para la consulta desatendida y extracción de datos desde la <strong>Ventanilla Social DNP</strong> (Sisbén y RIU). Procesa y estructura la información generando tableros automatizados en Excel con formato enriquecido.</p>
-      <p><code>Playwright</code> <code>TypeScript</code> <code>ExcelJS</code> <code>RPA</code></p>
-    </td>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/MSLegro/automation-enterprise-excel">automation-enterprise-excel</a></h3>
       <p>Pipeline empresarial para laboratorios clínicos. Automatiza la extracción de órdenes de pacientes, consulta y procesamiento en base de datos <strong>MSSQL</strong> y genera reportes contables/operativos en Excel enviados por email.</p>
       <p><code>Playwright</code> <code>MSSQL</code> <code>ExcelJS</code> <code>Google APIs</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>👶 <a href="https://github.com/MSLegro/rpa-ctg">rpa-ctg</a></h3>
       <p>Sistema RPA para el flujo de monitoreo fetal en instituciones de salud. Diseñado para alta disponibilidad con contenedorización en <strong>Docker</strong> y orquestación continua mediante <strong>PM2</strong>.</p>
       <p><code>JavaScript</code> <code>Healthcare RPA</code> <code>Docker</code> <code>PM2</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/MSLegro/bot-stream-massive">bot-stream-massive</a></h3>
+      <p>Motor para la gestión, orquestación y automatización de flujos de streaming y eventos masivos en segundo plano con control de concurrencia y tolerancia a fallos.</p>
+      <p><code>Node.js</code> <code>Automation</code> <code>Event Stream</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>📧 <a href="https://github.com/MSLegro/automation-gmail-whatsapp">Gmail → WhatsApp Bridge</a></h3>
@@ -129,14 +102,30 @@
 
 <div align="center">
 
-| Categoría | Armamento & Herramientas |
-|:---|:---|
-| **Lenguajes** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **RPA & Scraping** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-333333?style=flat-square&logo=googlechrome&logoColor=white) ![Custom Bots](https://img.shields.io/badge/Custom_Bots-0052CC?style=flat-square&logo=probot&logoColor=white) |
-| **Backend & Bases de Datos** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Entorno & DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Seguridad & Cifrado** | ![AES-256](https://img.shields.io/badge/AES--256-4E5D6C?style=flat-square&logo=letsencrypt&logoColor=white) ![Argon2](https://img.shields.io/badge/Argon2-20232A?style=flat-square&logo=keycdn&logoColor=white) ![CLI Tooling](https://img.shields.io/badge/CLI_Tooling-333333?style=flat-square&logo=gnubash&logoColor=white) |
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,js,py,bash,nodejs,express,postgres,linux,docker,git,github,vscode" alt="Skills" />
+  </p>
 
+| Categoría | Arsenal & Herramientas |
+|:---|:---|
+| **Lenguajes** | `TypeScript` `JavaScript` `Python` `SQL` `Bash` |
+| **RPA & Scraping** | `Playwright` `ExcelJS` `Web Reconnaissance (sk)` `Bot Flows` |
+| **Backend & Datos** | `Node.js` `Express` `Microsoft SQL Server` `PostgreSQL` `REST APIs` |
+| **Infraestructura** | `Linux (Arch/Debian)` `Docker` `PM2` `Git` `GitHub Actions` |
+| **Seguridad** | `AES-256` `Argon2` `Local Vaults` `CLI Packaging (.deb)` |
+
+</div>
+
+---
+
+## 🐍 Contribution Arcade // Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSLegro/MSLegro/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSLegro/MSLegro/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/MSLegro/MSLegro/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
