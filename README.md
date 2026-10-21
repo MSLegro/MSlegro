@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="./assets/workstation.svg" width="64" height="48" alt="Pixel Workstation" />
+    <img src="./assets/pixel-showcase.gif" width="96" height="96" alt="Pixel Workstation CRT" />
   </p>
 
   <h1>Manuel Sebastián Legro</h1>
