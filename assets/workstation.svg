@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24" width="64" height="48" style="image-rendering: pixelated; shape-rendering: crispEdges;">
+  <!-- Monitor Base & Neck -->
+  <rect x="10" y="15" width="4" height="2" fill="#30363d"/>
+  <rect x="7" y="17" width="10" height="2" fill="#21262d"/>
+  <rect x="6" y="18" width="12" height="1" fill="#38bdf8"/>
+  
+  <!-- Monitor Outer Bezel -->
+  <rect x="4" y="3" width="16" height="12" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- CRT Screen (Dark Inner) -->
+  <rect x="6" y="5" width="12" height="8" fill="#090d13"/>
+  
+  <!-- CRT Screen Content (Code Lines & Cursor) -->
+  <rect x="7" y="6" width="4" height="1" fill="#38bdf8"/>
+  <rect x="7" y="8" width="8" height="1" fill="#3fb950"/>
+  <rect x="7" y="10" width="5" height="1" fill="#848d97"/>
+  <rect x="13" y="10" width="2" height="1" fill="#38bdf8"/>
+  
+  <!-- Monitor LED -->
+  <rect x="18" y="13.5" width="1" height="1" fill="#22c55e"/>
+
+  <!-- Mini Keyboard -->
+  <rect x="5" y="19" width="14" height="2" fill="#161b22"/>
+  <rect x="6" y="19" width="2" height="1" fill="#848d97"/>
+  <rect x="9" y="19" width="2" height="1" fill="#848d97"/>
+  <rect x="12" y="19" width="2" height="1" fill="#848d97"/>
+  <rect x="15" y="19" width="3" height="1" fill="#38bdf8"/>
+
+  <!-- Coffee Mug -->
+  <rect x="22" y="13" width="5" height="6" fill="#161b22"/>
+  <rect x="23" y="14" width="3" height="4" fill="#d97706"/>
+  <rect x="27" y="14" width="1" height="3" fill="#848d97"/>
+  <rect x="22" y="19" width="5" height="1" fill="#30363d"/>
+
+  <!-- Coffee Steam -->
+  <rect x="24" y="10" width="1" height="1" fill="#848d97"/>
+  <rect x="25" y="8" width="1" height="1" fill="#6e7681"/>
+  <rect x="24" y="6" width="1" height="1" fill="#484f58"/>
+</svg>
