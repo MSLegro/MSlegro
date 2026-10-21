@@ -14,8 +14,6 @@ Desarrollo soluciones de automatización de procesos críticos (RPA), arquitectu
 
 - **Automatización & RPA:** Pipelines de extracción web sin bloqueos, orquestación de bots y procesamiento desatendido con Playwright y TypeScript.
 - **Backend & Tiempo Real:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
-- **Seguridad Local:** Gestión y almacenamiento seguro de credenciales mediante criptografía local (AES-256, derivación Argon2).
-
 ---
 
 ### 🔨 Proyectos Públicos Destacados
@@ -23,11 +21,6 @@ Desarrollo soluciones de automatización de procesos críticos (RPA), arquitectu
 - 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
 - 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
 - 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
-
----
-
-### 🕹️ Laboratorio Creativo & Lado Curioso
-
 - ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real. Monorepo Turborepo impulsado por **Fastify + WebSockets**, React 19, PostgreSQL (Drizzle ORM) y **audio procedural sintetizado en el navegador** (Web Audio API), con estética indie de cuaderno escolar.
 
 ---
