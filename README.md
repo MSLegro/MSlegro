@@ -1,41 +1,33 @@
-<table align="center" width="100%">
-<tr>
-<td align="center">
+---
 
-<p>
-  <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
-</p>
+<div align="center">
+  <p>
+    <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
+  </p>
 
-<p>
-  <font size="7"><b>Manuel Sebastián Legro</b></font>
-</p>
+  <h1>Manuel Sebastián Legro</h1>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+espacio+%F0%9F%91%8B;Welcome+to+my+workspace+%F0%9F%9A%80" alt="Typing Greeting" />
-</p>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+espacio+%F0%9F%91%8B;Welcome+to+my+workspace+%F0%9F%9A%80" alt="Typing Greeting" />
+  </p>
 
-<p>
-  <code>🟢 STATUS: RUNNING & AUTOMATING</code> &nbsp;·&nbsp;
-  <code>📍 VALLEDUPAR, CO 🇨🇴</code> &nbsp;·&nbsp;
-  <code>⚡ FASTIFY · PLAYWRIGHT · AI</code>
-</p>
+  <p>
+    <code>🟢 STATUS: RUNNING & AUTOMATING</code> &nbsp;·&nbsp;
+    <code>📍 VALLEDUPAR, CO 🇨🇴</code> &nbsp;·&nbsp;
+    <code>⚡ FASTIFY · PLAYWRIGHT · AI</code>
+  </p>
 
-<p><em>"Si se repite, se automatiza. Si no existe, se construye."</em></p>
+  <p><em>"Si se repite, se automatiza. Si no existe, se construye."</em></p>
 
-<p><strong>Systems Engineer · RPA & Backend Developer</strong></p>
+  <p><strong>Systems Engineer · RPA & Backend Developer</strong></p>
 
-<p>
-  <a href="https://www.linkedin.com/in/manuel-legro-b62622227/"><code><img src="./assets/linkedin.svg" width="13" height="13" valign="middle" /> LinkedIn ↗</code></a> &nbsp;·&nbsp;
-  <a href="mailto:legromanuel29@gmail.com"><code>✉️ Email</code></a>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/manuel-legro-b62622227/"><code><img src="./assets/linkedin.svg" width="13" height="13" valign="middle" /> LinkedIn ↗</code></a> &nbsp;·&nbsp;
+    <a href="mailto:legromanuel29@gmail.com"><code>✉️ Email</code></a>
+  </p>
+</div>
 
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
+---
 
 ### ⚡ Engineering Focus
 
@@ -45,13 +37,7 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 - **Backend & Real-Time:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
 - **AI & Agentic Workflows:** Pair programming agéntico, orquestación de LLMs, diseño de agentes autónomos y prompt engineering avanzado para acelerar desarrollo y extracción de datos complejos.
 
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
+---
 
 ### 💼 Work Experience
 
@@ -65,25 +51,13 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 - 🏛️ **Ingeniería de Sistemas** &nbsp;|&nbsp; **[Universidad Popular del Cesar (UPC)](https://www.unicesar.edu.co/)**  
   Valledupar, Colombia 🇨🇴 · Formación en ciencias de la computación, algoritmos, arquitectura de software y bases de datos.
 
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
+---
 
 ### 🏥 Featured Enterprise Projects
 
 - 🧬 **Axis RPA Ecosystem** `[Healthcare / Mission-Critical]` — Eje motor y plataforma de automatización robótica de procesos (RPA) de alta concurrencia hospitalaria. Diseñado para orquestar e integrar sistemas clínicos cerrados y ERPs hospitalarios (HIS/LIS) mediante colas asíncronas (BullMQ/Redis), micro-adaptadores headless con Playwright y observabilidad en tiempo real.
 
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
+---
 
 ### 🔨 Featured Personal Projects
 
@@ -92,32 +66,22 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 - 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** `[Open Source]` — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
 - ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** `[Open Source]` · **[Live Demo ↗](https://stop-game-cu7u.onrender.com)** — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real con Fastify + WebSockets, React 19, PostgreSQL (Drizzle ORM) y audio procedural sintetizado en el navegador (Web Audio API).
 
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
+---
 
 ### 🛠️ The Engine Room (Tech Stack)
 
-```yaml
-# System Blueprint & Core Tooling Specifications
-```
-- **`logic:`** &nbsp; <img src="https://cdn.simpleicons.org/typescript" width="14" height="14" /> `TypeScript` &nbsp; <img src="https://cdn.simpleicons.org/python" width="14" height="14" /> `Python` &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs" width="14" height="14" /> `Node.js`
-- **`architect:`** &nbsp; <img src="https://cdn.simpleicons.org/docker" width="14" height="14" /> `Docker` &nbsp; <img src="https://cdn.simpleicons.org/ansible" width="14" height="14" /> `Ansible` &nbsp; <img src="https://cdn.simpleicons.org/githubactions" width="14" height="14" /> `GitHub Actions` &nbsp; <img src="https://cdn.simpleicons.org/nginx" width="14" height="14" /> `Nginx`
-- **`data_flow:`** &nbsp; <img src="https://cdn.simpleicons.org/postgresql" width="14" height="14" /> `PostgreSQL` &nbsp; <img src="https://cdn.simpleicons.org/redis" width="14" height="14" /> `Redis` &nbsp; <img src="https://cdn.simpleicons.org/mongodb" width="14" height="14" /> `MongoDB` &nbsp; <img src="https://cdn.simpleicons.org/sqlite" width="14" height="14" /> `SQLite`
-- **`intelligence:`** &nbsp; <img src="https://cdn.simpleicons.org/anthropic" width="14" height="14" /> `Anthropic / Claude` &nbsp; <img src="https://cdn.simpleicons.org/googlegemini" width="14" height="14" /> `Google Gemini` &nbsp; <img src="https://cdn.simpleicons.org/opencode/white" width="14" height="14" /> `OpenCode`
-- **`interfaces:`** &nbsp; <img src="https://cdn.simpleicons.org/react" width="14" height="14" /> `React`
+> ### ⚙️ `engine_room.yaml`
+> 
+> ```yaml
+> # System Blueprint & Core Tooling Specifications
+> ```
+> - **`logic:`** &nbsp; <img src="https://cdn.simpleicons.org/typescript" width="14" height="14" /> `TypeScript` &nbsp; <img src="https://cdn.simpleicons.org/python" width="14" height="14" /> `Python` &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs" width="14" height="14" /> `Node.js`
+> - **`architect:`** &nbsp; <img src="https://cdn.simpleicons.org/docker" width="14" height="14" /> `Docker` &nbsp; <img src="https://cdn.simpleicons.org/ansible" width="14" height="14" /> `Ansible` &nbsp; <img src="https://cdn.simpleicons.org/githubactions" width="14" height="14" /> `GitHub Actions` &nbsp; <img src="https://cdn.simpleicons.org/nginx" width="14" height="14" /> `Nginx`
+> - **`data_flow:`** &nbsp; <img src="https://cdn.simpleicons.org/postgresql" width="14" height="14" /> `PostgreSQL` &nbsp; <img src="https://cdn.simpleicons.org/redis" width="14" height="14" /> `Redis` &nbsp; <img src="https://cdn.simpleicons.org/mongodb" width="14" height="14" /> `MongoDB` &nbsp; <img src="https://cdn.simpleicons.org/sqlite" width="14" height="14" /> `SQLite`
+> - **`intelligence:`** &nbsp; <img src="https://cdn.simpleicons.org/anthropic" width="14" height="14" /> `Anthropic / Claude` &nbsp; <img src="https://cdn.simpleicons.org/googlegemini" width="14" height="14" /> `Google Gemini` &nbsp; <img src="https://cdn.simpleicons.org/opencode/white" width="14" height="14" /> `OpenCode`
+> - **`interfaces:`** &nbsp; <img src="https://cdn.simpleicons.org/react" width="14" height="14" /> `React`
 
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td>
+---
 
 ### 🕹️ Git Activity
 
@@ -129,9 +93,7 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
   </picture>
 </p>
 
-</td>
-</tr>
-</table>
+---
 
 <p align="center">
   <sub>© Manuel Sebastián Legro</sub>
