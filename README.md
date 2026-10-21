@@ -16,13 +16,12 @@ Desarrollo soluciones de automatización de procesos críticos (RPA), arquitectu
 - **Backend & Tiempo Real:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
 ---
 
-### 🔨 Proyectos Destacados
+### 🔨 Proyectos Públicos Destacados
 
-- 🚀 **[Jaye Stream](https://jayestream.com/)** `[Live / Producción]` — Plataforma web para gestión y distribución de suscripciones digitales, con paneles de clientes/revendedores, billetera digital y administración de pedidos en tiempo real.
-- 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** `[Open Source]` — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
-- 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** `[Open Source]` — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
-- 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** `[Open Source]` — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
-- ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** `[Open Source]` — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real con Fastify + WebSockets, React 19, PostgreSQL (Drizzle ORM) y audio procedural sintetizado en el navegador (Web Audio API).
+- 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
+- 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
+- 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
+- ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real con Fastify + WebSockets, React 19, PostgreSQL (Drizzle ORM) y audio procedural sintetizado en el navegador (Web Audio API).
 
 ---
 
