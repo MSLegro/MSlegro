@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="./assets/banner-cyberlab-hi-res.png" width="100%" alt="CyberLab Panoramic Workstation" />
+    <img src="./assets/banner-animated.webp" width="100%" alt="Manuel Legro Developer Setup" />
   </p>
 </div>
 
