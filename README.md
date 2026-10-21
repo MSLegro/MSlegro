@@ -1,43 +1,59 @@
 # Manuel Sebastián Legro
 
-**Ingeniero de Sistemas · RPA & Backend Developer**  
-Valledupar, Colombia 🇨🇴
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=38BDF8&center=false&vCenter=true&width=550&lines=Ingeniero+de+Sistemas;RPA+%26+Backend+Developer;Real-Time+Systems+%26+Web+Automation;Si+se+repite%2C+se+automatiza." alt="Typing SVG" />
+</p>
 
-Desarrollo soluciones de automatización de procesos críticos (RPA), arquitecturas backend escalables y herramientas de software enfocadas en eficiencia, seguridad y resiliencia.
-
-[LinkedIn](https://www.linkedin.com/in/manuel-legro-b62622227/) · [Email](mailto:legromanuel29@gmail.com) · [GitHub](https://github.com/MSLegro)
+`Valledupar, Colombia 🇨🇴` &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/manuel-legro-b62622227/) &nbsp;·&nbsp; [Email](mailto:legromanuel29@gmail.com)
 
 ---
 
-### 🔨 Proyectos & Herramientas
+### ⚡ Enfoque de Ingeniería
+
+Desarrollo soluciones de automatización de procesos críticos (RPA), arquitecturas backend escalables y herramientas de software enfocadas en eficiencia, consistencia de datos y seguridad.
+
+- **Automatización & RPA:** Pipelines de extracción web sin bloqueos, orquestación de bots y procesamiento desatendido con Playwright y TypeScript.
+- **Backend & Tiempo Real:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
+- **Seguridad Local:** Gestión y almacenamiento seguro de credenciales mediante criptografía local (AES-256, derivación Argon2).
+
+---
+
+### 🔨 Proyectos Públicos Destacados
 
 - 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
 - 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
-- 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** — Gestor de credenciales local para terminal con cifrado AES-256 y derivación Argon2 (`.deb`).
-- 🏥 **[search-sisben-riu-data](https://github.com/MSLegro/search-sisben-riu-data)** — Bot RPA para consulta automatizada en Ventanilla Social DNP y modelado de datos en Excel.
-- 📊 **[automation-enterprise-excel](https://github.com/MSLegro/automation-enterprise-excel)** — Pipeline clínico: integración MSSQL, extracción con Playwright y generación de reportes operativos en Excel.
+- 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
+
+---
+
+### 🕹️ Laboratorio Creativo & Lado Curioso
+
+- ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real. Monorepo Turborepo impulsado por **Fastify + WebSockets**, React 19, PostgreSQL (Drizzle ORM) y **audio procedural sintetizado en el navegador** (Web Audio API), con estética indie de cuaderno escolar.
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,bash,nodejs,express,postgres,linux,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,fastify,react,py,postgres,docker,linux,bash,git&theme=dark" alt="Tech Stack" />
 </p>
 
-- **Lenguajes:** TypeScript, JavaScript, Python, SQL, Bash
-- **Automatización & RPA:** Playwright, ExcelJS, Web Scraping, Bot Flows
-- **Backend & Datos:** Node.js, Express, MSSQL, PostgreSQL, REST APIs
-- **Infraestructura & Seguridad:** Linux, Docker, PM2, Git, Criptografía (AES-256, Argon2)
+`TypeScript` · `JavaScript` · `Node.js` · `Fastify` · `React` · `Playwright` · `Python` · `PostgreSQL` · `Docker` · `Linux` · `Bash`
 
 ---
 
-### 📈 Actividad
+### 👾 Pixel Art Contribution Arcade
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSLegro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="420" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSLegro/MSlegro/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSLegro/MSlegro/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/MSLegro/MSlegro/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
-<sub>© Manuel Sebastián Legro · "Si se repite, se automatiza. Si no existe, se construye."</sub>
+<p align="center">
+  <sub>© Manuel Sebastián Legro · "Si se repite, se automatiza. Si no existe, se construye."</sub>
+</p>
