@@ -6,20 +6,20 @@
 
 > *"Si se repite, se automatiza. Si no existe, se construye."*
 
-**Software Engineer · Fullstack Architecture · AI & Infrastructure as Code**  
+**Systems Engineer · RPA & Backend Developer**  
 `Valledupar, Colombia 🇨🇴` &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/manuel-legro-b62622227/) &nbsp;·&nbsp; [Email](mailto:legromanuel29@gmail.com)
 
 ---
 
-### ⚡ Enfoque de Ingeniería
+### ⚡ Engineering Focus
 
-Desarrollo soluciones de automatización de procesos críticos (RPA), arquitecturas backend escalables y herramientas de software enfocadas en eficiencia, consistencia de datos y seguridad.
+Construyo arquitecturas backend escalables, soluciones de automatización de procesos críticos (RPA) y software enfocado en eficiencia, resiliencia y consistencia de datos.
 
-- **Automatización & RPA:** Pipelines de extracción web sin bloqueos, orquestación de bots y procesamiento desatendido con Playwright y TypeScript.
-- **Backend & Tiempo Real:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
+- **Automation & RPA:** Web scraping pipelines sin bloqueos, bot orchestration y procesamiento desatendido con Playwright y TypeScript.
+- **Backend & Real-Time:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
 ---
 
-### 🔨 Proyectos Públicos Destacados
+### 🔨 Featured Projects
 
 - 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
 - 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
