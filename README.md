@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="./assets/pixel-showcase.gif" width="96" height="96" alt="Pixel Workstation CRT" />
+    <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
   </p>
 
   <h1>Manuel Sebastián Legro</h1>
@@ -16,8 +16,8 @@
   <p><strong>Systems Engineer · RPA & Backend Developer</strong></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/manuel-legro-b62622227/"><code>LinkedIn ↗</code></a> &nbsp;·&nbsp;
-    <a href="mailto:legromanuel29@gmail.com"><code>Email ✉️</code></a>
+    <a href="https://www.linkedin.com/in/manuel-legro-b62622227/"><code><img src="./assets/linkedin.svg" width="13" height="13" valign="middle" /> LinkedIn ↗</code></a> &nbsp;·&nbsp;
+    <a href="mailto:legromanuel29@gmail.com"><code>✉️ Email</code></a>
   </p>
 </div>
 
