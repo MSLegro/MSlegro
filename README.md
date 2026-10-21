@@ -25,13 +25,17 @@ Desarrollo soluciones de automatización de procesos críticos (RPA), arquitectu
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ The Engine Room (Tech Stack)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,py,postgres,docker,linux,bash,git&theme=dark" alt="Tech Stack" />
-</p>
-
-`TypeScript` · `JavaScript` · `Node.js` · `Fastify` · `Express` · `React` · `Playwright` · `Python` · `PostgreSQL` · `Docker` · `Linux` · `Bash`
+> ### ⚙️ `engine_room.yaml`
+> 
+> ```yaml
+> # System Blueprint & Core Tooling Specifications
+> ```
+> - **`logic:`** &nbsp; <img src="https://cdn.simpleicons.org/typescript" width="14" height="14" /> `TypeScript` &nbsp; <img src="https://cdn.simpleicons.org/python" width="14" height="14" /> `Python` &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs" width="14" height="14" /> `Node.js`
+> - **`architect:`** &nbsp; <img src="https://cdn.simpleicons.org/docker" width="14" height="14" /> `Docker` &nbsp; <img src="https://cdn.simpleicons.org/ansible" width="14" height="14" /> `Ansible` &nbsp; <img src="https://cdn.simpleicons.org/githubactions" width="14" height="14" /> `GitHub Actions` &nbsp; <img src="https://cdn.simpleicons.org/nginx" width="14" height="14" /> `Nginx`
+> - **`data_flow:`** &nbsp; <img src="https://cdn.simpleicons.org/postgresql" width="14" height="14" /> `PostgreSQL` &nbsp; <img src="https://cdn.simpleicons.org/redis" width="14" height="14" /> `Redis` &nbsp; <img src="https://cdn.simpleicons.org/mongodb" width="14" height="14" /> `MongoDB` &nbsp; <img src="https://cdn.simpleicons.org/sqlite" width="14" height="14" /> `SQLite`
+> - **`interfaces:`** &nbsp; <img src="https://cdn.simpleicons.org/react" width="14" height="14" /> `React`
 
 ---
 
