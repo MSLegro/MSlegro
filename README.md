@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
+    <img src="./assets/banner-cyberlab-hi-res.png" width="100%" alt="CyberLab Panoramic Workstation" />
   </p>
 </div>
 
