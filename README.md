@@ -2,11 +2,13 @@
   <p>
     <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
   </p>
+</div>
 
-  <h1>Manuel Sebastián Legro</h1>
+---
 
+<div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+espacio+%F0%9F%91%8B;Welcome+to+my+workspace+%F0%9F%9A%80" alt="Typing Greeting" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=700&pause=1400&color=38BDF8&center=true&vCenter=true&width=550&lines=Hola%2C+soy+Manuel+Legro+%F0%9F%91%8B;Hi%2C+I'm+Manuel+Legro+%F0%9F%91%8B" alt="Typing Greeting" />
   </p>
 
   <p>
