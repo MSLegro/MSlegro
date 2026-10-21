@@ -59,7 +59,7 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 - 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** `[Open Source]` — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
 - 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** `[Open Source]` — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
 - 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** `[Open Source]` — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
-- ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** `[Open Source]` — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real con Fastify + WebSockets, React 19, PostgreSQL (Drizzle ORM) y audio procedural sintetizado en el navegador (Web Audio API).
+- ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** `[Open Source]` · **[Live Demo ↗](https://stop-game-cu7u.onrender.com)** — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real con Fastify + WebSockets, React 19, PostgreSQL (Drizzle ORM) y audio procedural sintetizado en el navegador (Web Audio API).
 
 ---
 
