@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <p>
     <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
