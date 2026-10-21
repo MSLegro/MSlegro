@@ -7,7 +7,7 @@
 > *"Si se repite, se automatiza. Si no existe, se construye."*
 
 **Systems Engineer · RPA & Backend Developer**  
-`Valledupar, Colombia 🇨🇴` &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/manuel-legro-b62622227/) &nbsp;·&nbsp; [Email](mailto:legromanuel29@gmail.com)
+`Valledupar, Colombia 🇨🇴` &nbsp;·&nbsp; [`LinkedIn`](https://www.linkedin.com/in/manuel-legro-b62622227/) &nbsp;·&nbsp; [`Email`](mailto:legromanuel29@gmail.com)
 
 ---
 
