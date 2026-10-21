@@ -1,9 +1,12 @@
 # Manuel Sebastián Legro
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=38BDF8&center=false&vCenter=true&width=550&lines=Ingeniero+de+Sistemas;RPA+%26+Backend+Developer;Real-Time+Systems+%26+Web+Automation;Si+se+repite%2C+se+automatiza." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=38BDF8&center=false&vCenter=true&width=550&lines=Hola%2C+soy+Manuel+Sebasti%C3%A1n+Legro+%F0%9F%91%8B;Hi%2C+I%27m+Manuel+Sebasti%C3%A1n+Legro+%F0%9F%91%8B" alt="Typing Greeting" />
 </p>
 
+> *"Si se repite, se automatiza. Si no existe, se construye."*
+
+**Software Engineer · Fullstack Architecture · AI & Infrastructure as Code**  
 `Valledupar, Colombia 🇨🇴` &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/manuel-legro-b62622227/) &nbsp;·&nbsp; [Email](mailto:legromanuel29@gmail.com)
 
 ---
@@ -39,7 +42,7 @@ Desarrollo soluciones de automatización de procesos críticos (RPA), arquitectu
 
 ---
 
-### 👾 Pixel Art Contribution Arcade
+### 🕹️ Git Activity
 
 <p align="left">
   <picture>
@@ -52,5 +55,5 @@ Desarrollo soluciones de automatización de procesos críticos (RPA), arquitectu
 ---
 
 <p align="center">
-  <sub>© Manuel Sebastián Legro · "Si se repite, se automatiza. Si no existe, se construye."</sub>
+  <sub>© Manuel Sebastián Legro</sub>
 </p>
