@@ -38,6 +38,7 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 
 - **Automation & RPA:** Web scraping pipelines sin bloqueos, bot orchestration y procesamiento desatendido con Playwright y TypeScript.
 - **Backend & Real-Time:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
+- **AI & Agentic Workflows:** Pair programming agéntico, orquestación de LLMs, diseño de agentes autónomos y prompt engineering avanzado para acelerar desarrollo y extracción de datos complejos.
 ---
 
 ### 💼 Work Experience
@@ -72,6 +73,7 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 > - **`logic:`** &nbsp; <img src="https://cdn.simpleicons.org/typescript" width="14" height="14" /> `TypeScript` &nbsp; <img src="https://cdn.simpleicons.org/python" width="14" height="14" /> `Python` &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs" width="14" height="14" /> `Node.js`
 > - **`architect:`** &nbsp; <img src="https://cdn.simpleicons.org/docker" width="14" height="14" /> `Docker` &nbsp; <img src="https://cdn.simpleicons.org/ansible" width="14" height="14" /> `Ansible` &nbsp; <img src="https://cdn.simpleicons.org/githubactions" width="14" height="14" /> `GitHub Actions` &nbsp; <img src="https://cdn.simpleicons.org/nginx" width="14" height="14" /> `Nginx`
 > - **`data_flow:`** &nbsp; <img src="https://cdn.simpleicons.org/postgresql" width="14" height="14" /> `PostgreSQL` &nbsp; <img src="https://cdn.simpleicons.org/redis" width="14" height="14" /> `Redis` &nbsp; <img src="https://cdn.simpleicons.org/mongodb" width="14" height="14" /> `MongoDB` &nbsp; <img src="https://cdn.simpleicons.org/sqlite" width="14" height="14" /> `SQLite`
+> - **`intelligence:`** &nbsp; <img src="https://cdn.simpleicons.org/anthropic" width="14" height="14" /> `Anthropic / Claude` &nbsp; <img src="https://cdn.simpleicons.org/googlegemini" width="14" height="14" /> `Google Gemini` &nbsp; <img src="https://cdn.simpleicons.org/ollama" width="14" height="14" /> `Ollama` &nbsp; <img src="https://cdn.simpleicons.org/langchain" width="14" height="14" /> `LangChain`
 > - **`interfaces:`** &nbsp; <img src="https://cdn.simpleicons.org/react" width="14" height="14" /> `React`
 
 ---
