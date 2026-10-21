@@ -34,6 +34,13 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 
 ---
 
+### 🎓 Education
+
+- 🏛️ **Ingeniería de Sistemas** &nbsp;|&nbsp; **[Universidad Popular del Cesar (UPC)](https://www.unicesar.edu.co/)**  
+  Valledupar, Colombia 🇨🇴 · Formación en ciencias de la computación, algoritmos, arquitectura de software y bases de datos.
+
+---
+
 ### 🏥 Featured Enterprise Projects
 
 - 🧬 **Axis RPA Ecosystem** `[Healthcare / Mission-Critical]` — Eje motor y plataforma de automatización robótica de procesos (RPA) de alta concurrencia hospitalaria. Diseñado para orquestar e integrar sistemas clínicos cerrados y ERPs hospitalarios (HIS/LIS) mediante colas asíncronas (BullMQ/Redis), micro-adaptadores headless con Playwright y observabilidad en tiempo real.
