@@ -3,7 +3,9 @@
     <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
   </p>
 
-  <h1>Manuel Sebastián Legro</h1>
+  <p>
+    <font size="6"><b>Manuel Sebastián Legro</b></font>
+  </p>
 
   <p>
     <code>🟢 STATUS: RUNNING & AUTOMATING</code> &nbsp;·&nbsp;
