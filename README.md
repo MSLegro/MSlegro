@@ -1,27 +1,37 @@
-<div align="center">
-  <p>
-    <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
-  </p>
+<table align="center" width="100%">
+<tr>
+<td align="center">
 
-  <p>
-    <font size="6"><b>Manuel Sebastián Legro</b></font>
-  </p>
+<p>
+  <img src="./assets/pixel-showcase.png" width="96" height="96" alt="Pixel Workstation CRT" />
+</p>
 
-  <p>
-    <code>🟢 STATUS: RUNNING & AUTOMATING</code> &nbsp;·&nbsp;
-    <code>📍 VALLEDUPAR, CO 🇨🇴</code> &nbsp;·&nbsp;
-    <code>⚡ FASTIFY · PLAYWRIGHT · AI</code>
-  </p>
+<p>
+  <font size="7"><b>Manuel Sebastián Legro</b></font>
+</p>
 
-  <p><em>"Si se repite, se automatiza. Si no existe, se construye."</em></p>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+espacio+%F0%9F%91%8B;Welcome+to+my+workspace+%F0%9F%9A%80" alt="Typing Greeting" />
+</p>
 
-  <p><strong>Systems Engineer · RPA & Backend Developer</strong></p>
+<p>
+  <code>🟢 STATUS: RUNNING & AUTOMATING</code> &nbsp;·&nbsp;
+  <code>📍 VALLEDUPAR, CO 🇨🇴</code> &nbsp;·&nbsp;
+  <code>⚡ FASTIFY · PLAYWRIGHT · AI</code>
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/manuel-legro-b62622227/"><code><img src="./assets/linkedin.svg" width="13" height="13" valign="middle" /> LinkedIn ↗</code></a> &nbsp;·&nbsp;
-    <a href="mailto:legromanuel29@gmail.com"><code>✉️ Email</code></a>
-  </p>
-</div>
+<p><em>"Si se repite, se automatiza. Si no existe, se construye."</em></p>
+
+<p><strong>Systems Engineer · RPA & Backend Developer</strong></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/manuel-legro-b62622227/"><code><img src="./assets/linkedin.svg" width="13" height="13" valign="middle" /> LinkedIn ↗</code></a> &nbsp;·&nbsp;
+  <a href="mailto:legromanuel29@gmail.com"><code>✉️ Email</code></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
