@@ -28,10 +28,10 @@ Desarrollo soluciones de automatización de procesos críticos (RPA), arquitectu
 ### 🛠️ Stack Tecnológico
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,fastify,react,py,postgres,docker,linux,bash,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,py,postgres,docker,linux,bash,git&theme=dark" alt="Tech Stack" />
 </p>
 
-`TypeScript` · `JavaScript` · `Node.js` · `Fastify` · `React` · `Playwright` · `Python` · `PostgreSQL` · `Docker` · `Linux` · `Bash`
+`TypeScript` · `JavaScript` · `Node.js` · `Fastify` · `Express` · `React` · `Playwright` · `Python` · `PostgreSQL` · `Docker` · `Linux` · `Bash`
 
 ---
 
