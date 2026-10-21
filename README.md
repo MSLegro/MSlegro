@@ -28,11 +28,18 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 
 ### 💼 Experiencia Laboral
 
-- 🏥 **Axis RPA Ecosystem** `[Healthcare / Mission-Critical]` — Eje motor y plataforma de automatización robótica de procesos (RPA) de alta concurrencia hospitalaria. Diseñado para orquestar e integrar sistemas clínicos cerrados y ERPs hospitalarios (HIS/LIS) mediante colas asíncronas (BullMQ/Redis), micro-adaptadores headless con Playwright y observabilidad en tiempo real.
+- 📊 **Analista de Datos** &nbsp;|&nbsp; **[Clínica Alta Complejidad del Cesar](https://www.clinicaaltacomplejidad.com/)** `[Actualmente]`  
+  Modelado y análisis de datos clínicos, diseño de pipelines de reportería hospitalaria de alta complejidad y optimización de flujos de información asistencial.
 
 ---
 
-### 🔨 Featured Projects
+### 🏥 Proyectos Destacados Empresariales
+
+- 🧬 **Axis RPA Ecosystem** `[Healthcare / Mission-Critical]` — Eje motor y plataforma de automatización robótica de procesos (RPA) de alta concurrencia hospitalaria. Diseñado para orquestar e integrar sistemas clínicos cerrados y ERPs hospitalarios (HIS/LIS) mediante colas asíncronas (BullMQ/Redis), micro-adaptadores headless con Playwright y observabilidad en tiempo real.
+
+---
+
+### 🔨 Proyectos Personales Destacados
 
 - 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** `[Open Source]` — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
 - 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** `[Open Source]` — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
