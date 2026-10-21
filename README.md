@@ -26,12 +26,18 @@ Construyo arquitecturas backend escalables, soluciones de automatización de pro
 - **Backend & Real-Time:** Servicios asíncronos con Fastify y Node.js, WebSockets reactivos y persistencia relacional con PostgreSQL.
 ---
 
+### 💼 Experiencia Laboral
+
+- 🏥 **Axis RPA Ecosystem** `[Healthcare / Mission-Critical]` — Eje motor y plataforma de automatización robótica de procesos (RPA) de alta concurrencia hospitalaria. Diseñado para orquestar e integrar sistemas clínicos cerrados y ERPs hospitalarios (HIS/LIS) mediante colas asíncronas (BullMQ/Redis), micro-adaptadores headless con Playwright y observabilidad en tiempo real.
+
+---
+
 ### 🔨 Featured Projects
 
-- 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
-- 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
-- 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
-- ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real con Fastify + WebSockets, React 19, PostgreSQL (Drizzle ORM) y audio procedural sintetizado en el navegador (Web Audio API).
+- 🔍 **[scanner-kit-playwright](https://github.com/MSLegro/scanner-kit-playwright)** `[Open Source]` — Kit CLI universal de reconocimiento y automatización web desarrollado en TypeScript y Playwright.
+- 🕸️ **[DocuGraph](https://github.com/MSLegro/DocuGraph)** `[Open Source]` — Motor para modelado, análisis relacional y visualización de grafos de información y flujos documentales.
+- 🛡️ **[secure-bot-CLI](https://github.com/MSLegro/secure-bot-CLI)** `[Open Source]` — Gestor de credenciales local para terminal con cifrado AES-256 y derivación de claves Argon2 (`.deb`).
+- ✏️ **[stop-game](https://github.com/MSLegro/stop-game)** `[Open Source]` — *Stop! (Tutti Frutti / Basta)* — PWA multijugador en tiempo real con Fastify + WebSockets, React 19, PostgreSQL (Drizzle ORM) y audio procedural sintetizado en el navegador (Web Audio API).
 
 ---
 
